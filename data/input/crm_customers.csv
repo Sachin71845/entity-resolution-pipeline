@@ -1,0 +1,22 @@
+﻿customer_id,full_name,email_address,phone_number,created_at
+CUST-10001,Allison Hill,donaldgarcia_1@hotmail.com,9819600133,2026-10-01T08:00:00+00:00
+CUST-10002,Alyssa Gonzalez,lrobinson_2@yahoo.com,9026542351,2026-10-01T09:00:00+00:00
+CUST-10003,Brent Abbott,lindsay78_3@gmail.com,9618495931,2026-10-01T10:00:00+00:00
+CUST-10004,Darren Roberts,wyattmichelle_4@yahoo.com,9475255341,2026-10-01T11:00:00+00:00
+CUST-10005,Carolyn Daniel,stevennelson_5@hotmail.com,9835030564,2026-10-01T12:00:00+00:00
+CUST-10006,Thomas Bradley,jason76_6@hotmail.com,9724238849,2026-10-01T13:00:00+00:00
+CUST-10007,Kevin Cox,williamdavis_7@gmail.com,9122691669,2026-10-01T14:00:00+00:00
+CUST-10008,Kendra Maddox DVM,frazierdanny_8@hotmail.com,9451462704,2026-10-01T15:00:00+00:00
+CUST-10009,Pamela Romero,harrellkenneth_9@hotmail.com,9893252880,2026-10-01T16:00:00+00:00
+CUST-10010,Katherine Rodriguez,natasha43_10@gmail.com,9391171822,2026-10-01T17:00:00+00:00
+CUST-10011,Theresa Martin,ibrandt_11@hotmail.com,9346578713,2026-10-04T18:00:00+00:00
+CUST-10012,George Chapman,briannasmith_12@hotmail.com,9031051834,2026-10-04T19:00:00+00:00
+CUST-10013,Cindy Anderson,esanchez_13@yahoo.com,9311656670,2026-10-04T20:00:00+00:00
+CUST-10014,Victoria Garcia,zchandler_14@gmail.com,9333872624,2026-10-04T21:00:00+00:00
+CUST-10015,Shannon Jones,williamsyvette_15@gmail.com,9132677360,2026-10-04T22:00:00+00:00
+CUST-10016,Aaron Myers,shared_household@familymail.com,9872343098,2026-10-06T09:00:00+00:00
+CUST-10017,Erik Williams,shared_household@familymail.com,9081219136,2026-10-06T10:00:00+00:00
+CUST-10019,Matthew Bryant,smithchristine_19@hotmail.com,9118384251,2026-10-07T08:00:00+00:00
+CUST-10022,Mandy Green,,,2026-10-10T08:00:00+00:00
+CUST-10001,Allison Hill,donaldgarcia_1@hotmail.com,9819600133,2026-10-11T08:00:00+00:00
+,Ghost Customer,ghost@example.com,9000000099,2026-10-12T08:00:00+00:00

@@ -1,0 +1,14 @@
+source_system,source_id,full_name,email,phone,source_updated_at
+CRM,C101,Sachin Jadhav,sachin@gmail.com,9876543210,2026-10-01T10:00:00
+ECOM,E501,Sachin Jadhav,sachin@gmail.com,9876543210,2026-10-02T11:00:00
+MARKETING,M901,Sachin Jadhav,SACHIN@GMAIL.COM,9876543210,2026-10-03T12:00:00
+CRM,C102,Rahul Patil,rahul@gmail.com,9123456780,2026-10-01T09:00:00
+ECOM,E502,Rahul Patil,rahul.patil@gmail.com,9123456780,2026-10-02T09:00:00
+CRM,C201,Asha Kulkarni,shared@gmail.com,9000000001,2026-10-01T10:00:00
+CRM,C202,Neha Joshi,shared@gmail.com,9000000002,2026-10-01T11:00:00
+ECOM,E901,Unknown Customer,shared@gmail.com,9000000003,2026-10-04T10:00:00
+CRM,C301,Unknown Person,,,2026-10-01T12:00:00
+CRM,C101,Sachin Jadhav,sachin@gmail.com,9876543210,2026-10-01T10:00:00
+CRM,C401,Anita Sharma,anita@gmail.com,9988776655,2026-10-05T10:00:00
+CRM,,Missing ID,missing@gmail.com,9000000010,2026-10-05T11:00:00
+ECOM,E601,Invalid Email,invalid-email,9000000011,2026-10-05T12:00:00

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "source": "BILLING",
+    "format_version": "1.0",
+    "record_count": 12,
+    "generated_at": "2026-10-30T12:54:48.147068+00:00"
+  },
+  "accounts": [
+    {
+      "account_id": "b_101",
+      "contact_name": "Allison Hill",
+      "billing_email": "donaldgarcia_1@hotmail.com",
+      "contact_phone": "9819600133",
+      "last_invoice_date": "2026-10-02T08:00:00+00:00"
+    },
+    {
+      "account_id": "b_102",
+      "contact_name": "Alyssa Gonzalez",
+      "billing_email": "lrobinson_2@yahoo.com",
+      "contact_phone": "9026542351",
+      "last_invoice_date": "2026-10-02T09:00:00+00:00"
+    },
+    {
+      "account_id": "b_103",
+      "contact_name": "Brent Abbott",
+      "billing_email": "lindsay78_3@gmail.com",
+      "contact_phone": "9618495931",
+      "last_invoice_date": "2026-10-02T10:00:00+00:00"
+    },
+    {
+      "account_id": "b_104",
+      "contact_name": "Darren Roberts",
+      "billing_email": "wyattmichelle_4@yahoo.com",
+      "contact_phone": "9475255341",
+      "last_invoice_date": "2026-10-02T11:00:00+00:00"
+    },
+    {
+      "account_id": "b_105",
+      "contact_name": "Carolyn Daniel",
+      "billing_email": "stevennelson_5@hotmail.com",
+      "contact_phone": "9835030564",
+      "last_invoice_date": "2026-10-02T12:00:00+00:00"
+    },
+    {
+      "account_id": "b_106",
+      "contact_name": "Thomas Bradley",
+      "billing_email": "jason76_6@hotmail.com",
+      "contact_phone": "9724238849",
+      "last_invoice_date": "2026-10-02T13:00:00+00:00"
+    },
+    {
+      "account_id": "b_107",
+      "contact_name": "Kevin Cox",
+      "billing_email": "williamdavis_7@gmail.com",
+      "contact_phone": "9122691669",
+      "last_invoice_date": "2026-10-02T14:00:00+00:00"
+    },
+    {
+      "account_id": "b_108",
+      "contact_name": "Kendra Maddox DVM",
+      "billing_email": "frazierdanny_8@hotmail.com",
+      "contact_phone": "9451462704",
+      "last_invoice_date": "2026-10-02T15:00:00+00:00"
+    },
+    {
+      "account_id": "b_109",
+      "contact_name": "Pamela Romero",
+      "billing_email": "harrellkenneth_9@hotmail.com",
+      "contact_phone": "9893252880",
+      "last_invoice_date": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "account_id": "b_110",
+      "contact_name": "Katherine Rodriguez",
+      "billing_email": "natasha43_10@gmail.com",
+      "contact_phone": "9391171822",
+      "last_invoice_date": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "account_id": "b_118",
+      "contact_name": "Steve Sanchez",
+      "billing_email": "shared_household@familymail.com",
+      "contact_phone": "9985435346",
+      "last_invoice_date": "2026-10-06T11:00:00+00:00"
+    },
+    {
+      "account_id": "b_120",
+      "contact_name": "Jaclyn Moore",
+      "billing_email": "cheryl80_20@hotmail.com",
+      "contact_phone": "9841241182",
+      "last_invoice_date": "2026-10-08T08:00:00+00:00"
+    }
+  ]
+}

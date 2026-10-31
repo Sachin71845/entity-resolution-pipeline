@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment secrets
+.env
+
+# IDE
+.vscode/
+
+# Database files
+*.db
+*.sqlite3
+
+# Generated data
+data/output/*
+data/quarantine/*
+reports/*
+
+# Keep folder structures
+!data/output/.gitkeep
+!data/quarantine/.gitkeep
+!reports/.gitkeep

@@ -1,0 +1,14 @@
+source_system,source_id,expected_outcome,expected_match_type
+CRM,C101,NEW_ENTITY,new
+ECOM,E501,MAPPED,exact_email
+MARKETING,M901,MAPPED,exact_email_after_normalization
+CRM,C102,NEW_ENTITY,new
+ECOM,E502,MAPPED,rule_name_phone
+CRM,C201,CONFLICT,email_collision
+CRM,C202,CONFLICT,email_collision
+ECOM,E901,CONFLICT,multiple_candidates
+CRM,C301,UNRESOLVED,no_identifiers
+CRM,C101,DUPLICATE,duplicate_source_key
+CRM,C401,NEW_ENTITY,new
+CRM,,REJECTED,missing_source_id
+ECOM,E601,REJECTED,invalid_email
