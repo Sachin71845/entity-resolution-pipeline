@@ -1,6 +1,6 @@
 # AI Transparency & Prompt History Report
 
-**Candidate Name:** Sachin Jadhav  
+**Candidate Name:** Sachin Kaware 
 **Submission For:** YottaFlex AI Recruitment Drive — Candidate Project  
 **Challenge Window:** 72 Hours  
 **Primary AI Pair Programmer:** Antigravity AI (Google DeepMind Agentic Coding System)  
@@ -164,3 +164,4 @@ In this assignment, AI acted as a **productivity multiplier** for standard codin
 2. Prioritizing **data integrity** (quarantining email collisions) over false-positive convenience.
 3. Prioritizing **computational efficiency** (hash inverted indexing) over naive nested iterations.
 4. Ensuring **100% auditability and conservation** through every stage of the lifecycle.
+

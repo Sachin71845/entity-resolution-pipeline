@@ -1,6 +1,6 @@
 # Architecture, Design Decisions & Technical Walkthrough
 
-**Candidate:** Sachin Jadhav  
+**Candidate:** Sachin Kaware  
 **Company:** YottaFlex AI Recruitment Drive  
 **Document Purpose:** Pillar 04 Submission — "Make Your Reasoning Visible" & Technical Interview Walkthrough Guide  
 
@@ -184,3 +184,4 @@ When walking interviewers through the project, structure your presentation as fo
 • Address limitations: "If we had 10M+ records, we would introduce phonetic blocking (Double Metaphone)
    and distribute the stages across PySpark or Ray while maintaining our target canonical storage."
 ```
+
